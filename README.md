@@ -10,7 +10,7 @@ En este repotorio mosntraremos el estreno de una nueva pelivcula, tendran el con
 #5d444e
 
 ### fuentes
-la tipografia de la marca no es publica ademas fue hecha en mano, voy a usar Montserrat que es la mas ¿cercana a el proyecto, 
+la tipografia de la marca no es publica ademas fue hecha en mano, voy a usar Montserrat que es la mas cercana a el proyecto, 
 
 #### 
 ¿quien es el usuario?
