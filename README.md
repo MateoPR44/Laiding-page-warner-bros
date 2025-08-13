@@ -3,11 +3,11 @@ Aplicación de HTML. CSS, JS- De la marca warner bros
 En este repotorio mosntraremos el estreno de una nueva pelivcula, tendran el concepto de la marca y esta va a justarse al estilo de la pelicula
 
 ## colores
-#fbc404
-#383fec
-#0e0a77
-#5d53a5
-#5d444e
+#fbc404: Amarillo
+#383fec: Azul-fondos
+#0e0a77: Azul-resaltar
+#5d53a5: Morado
+#5d444e: Cafe
 
 ### fuentes
 la tipografia de la marca no es publica ademas fue hecha en mano, voy a usar Montserrat que es la mas cercana a el proyecto, 

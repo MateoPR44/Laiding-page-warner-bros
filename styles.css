@@ -1,14 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    /* colores Warner bros */
+    --Amarillo: #fbc404;
+    --Azul-fondos: #383fec;
+    --Azul-resaltar: #0e0a77;
+    --Morado: #5d53a5;
+    --Cafe: #5d444e;
+
+}
+
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Montserrat", sans-serif;
+    background-color: var(--Azul-fondos);
 }
 
 h1{
-    background-color:#383fec;
-    color: aliceblue;
-    font-size: 80px;
+    background-color:#ffffff;
+    color: #363cec;
+    font-size: 60px;
 
 }
 img{
     background-color:#383fec;
-    width: 150px;
+    width: 250px;
+    display:block;
+    margin:auto;
 }
