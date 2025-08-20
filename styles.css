@@ -17,9 +17,9 @@ body{
 }
 
 h1{
-    background-color:#ffffff;
+    background-color:#000000;
     font-family: "Roboto", sans-serif;
-    color: #363cec;
+    color: #ffffff;
     font-size: 60px;
 
 }
@@ -28,4 +28,27 @@ img{
     width: 250px;
     display:block;
     margin:auto;
+}
+
+.foto img{
+    animation: escala 3s;
+    
+}
+@keyframes escala {
+    0% {
+        opacity: 0;
+        transform: scale(0.6);
+    }
+    80% {
+        opacity: 1;
+        transform: scale(1.1);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.logo-wb {
+    animation: escalaEntrada 1s cubic-bezier(.68,-0.55,.27,1.55);
 }
