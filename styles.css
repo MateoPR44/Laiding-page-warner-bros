@@ -32,8 +32,10 @@ img{
 
 .foto img{
     animation: escala 3s;
-    
+    width: 430px;
+    text-align: center;
 }
+
 @keyframes escala {
     0% {
         opacity: 0;
